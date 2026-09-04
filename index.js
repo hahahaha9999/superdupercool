@@ -43,8 +43,7 @@
 
     // ====== THE SCRIPT ======
     var SCRIPT = [
-      "Hello, we have just launced a new trading platform, and we are hosting a giveaway currently if you would like to join",
-      "?",
+      "Hello, we have just launched a new trading platform, and we are hosting a giveaway currently if you would like to join",
       "All you need to do is send 20 messages in the server and invite 3 people but first you need to verify, here is the server https://discord.gg/F2xUwauF5", 
     ];
     // ========================
