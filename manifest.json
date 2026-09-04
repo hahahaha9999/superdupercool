@@ -1,14 +1,14 @@
 {
   "id": "HiddenDM",
-  "name": "HiddenDM",
+  "name": "SainttsDm",
   "version": "1.0.0",
-  "description": "Create fake messages from any user in DMs Sai Version",
+  "description": "Create fake messages from any user in DMs",
   "authors": [
     {
-      "name": "Sai",
+      "name": "dod",
       "id": "1278523345498800130"
     }
   ],
   "main": "index.js",
-  "hash": "8f3c1a9e2d4b7f601234567890abcdef0123456789abcdef0123456789abcdef0"
+  "hash": "c7a91e4f6b2d8a305f1c9e73b64a0d1289f3c5e7a21b8d406e9f2a7c1d5b83f6"
 }
