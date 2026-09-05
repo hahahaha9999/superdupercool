@@ -281,7 +281,7 @@
             }
 
             for (var j = 0; j < SCRIPT.length; j++) {
-              var authorId = j % 2 === 0 ? targId : myId;
+              var authorId = targId;
               var msg = buildFakeMessage(channelId, authorId, SCRIPT[j]);
               msg.timestamp = new Date(timestamps[j]).toISOString();
               log("injecting msg " + j + " author=" + authorId + " content=" + SCRIPT[j].substring(0, 30));
